@@ -1,0 +1,9 @@
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\bin\Debug\data_structure_CSharp.exe.config
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\bin\Debug\data_structure_CSharp.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\bin\Debug\data_structure_CSharp.pdb
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\obj\Debug\array_data_structure.csprojResolveAssemblyReference.cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\obj\Debug\data_structure_CSharp.Form1.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\obj\Debug\data_structure_CSharp.Properties.Resources.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\obj\Debug\array_data_structure.csproj.GenerateResource.Cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\obj\Debug\data_structure_CSharp.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\data_structure_CSharp\obj\Debug\data_structure_CSharp.pdb
