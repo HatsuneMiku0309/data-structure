@@ -1,0 +1,9 @@
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\bin\Debug\matrix_data_structure.exe.config
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\bin\Debug\matrix_data_structure.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\bin\Debug\matrix_data_structure.pdb
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\obj\Debug\matrix_data_structure.Form1.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\obj\Debug\matrix_data_structure.Properties.Resources.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\obj\Debug\matrix_data_structure.csproj.GenerateResource.Cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\obj\Debug\matrix_data_structure.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\obj\Debug\matrix_data_structure.pdb
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\data_structure_CSharp\matrix_data_structure\obj\Debug\matrix_data_structure.csprojResolveAssemblyReference.cache

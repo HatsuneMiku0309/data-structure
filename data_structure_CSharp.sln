@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_data_structure", "data_structure_CSharp\array_data_structure.csproj", "{5B8059CB-AF7D-4679-840A-A59AA04BEA89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix_data_structure", "matrix_data_structure\matrix_data_structure.csproj", "{3CC2F98F-D9DB-4205-93FF-83A2E2EFAA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack_data_structure", "stack_data_structure\stack_data_structure.csproj", "{437A7038-F8B5-4BBA-AB17-7BE20782D970}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5B8059CB-AF7D-4679-840A-A59AA04BEA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B8059CB-AF7D-4679-840A-A59AA04BEA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B8059CB-AF7D-4679-840A-A59AA04BEA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC2F98F-D9DB-4205-93FF-83A2E2EFAA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC2F98F-D9DB-4205-93FF-83A2E2EFAA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC2F98F-D9DB-4205-93FF-83A2E2EFAA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC2F98F-D9DB-4205-93FF-83A2E2EFAA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437A7038-F8B5-4BBA-AB17-7BE20782D970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437A7038-F8B5-4BBA-AB17-7BE20782D970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437A7038-F8B5-4BBA-AB17-7BE20782D970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437A7038-F8B5-4BBA-AB17-7BE20782D970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

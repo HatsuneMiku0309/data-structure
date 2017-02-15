@@ -78,5 +78,46 @@ namespace data_structure_CSharp
         {
             textBox1.Text = "";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int[] A = new int[] { 10, 20, 30 };
+            int index = 0;
+            int count = 1;
+            string resultStr = "";
+
+            if (!int.TryParse(textBox3.Text, out index))
+            {
+                richTextBox1.AppendText("your input is error!" + Environment.NewLine);
+                return;
+            }
+
+            if (index < 0 || index > A.Length-1)
+            {
+                richTextBox1.AppendText("your index is overflow" + Environment.NewLine);
+                return;
+            }
+
+            for (var i = index; i < A.Length - 1; i++)
+            {
+                A[i] = A[i + 1];
+            }
+
+            A[A.Length - 1] = 0;
+
+            foreach (var myValue in A)
+            {
+                resultStr += "{" + count + ": " + myValue + "}";
+                ++count;
+            }
+
+            richTextBox1.AppendText(resultStr + Environment.NewLine);
+        }
+
+        private void textBox3_MouseDown(object sender, MouseEventArgs e)
+        {
+            textBox3.Text = "";
+        }
+        
     }
 }
